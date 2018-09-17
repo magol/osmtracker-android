@@ -170,7 +170,7 @@
 	<string name="available_layouts_response_null_exception">Error: unable to connect to the default custom layouts repository</string>
 	<string name="available_layouts_connecting_message">(Connecting…)</string>
 	<string name="available_layouts_description_dialog_positive_confirmation">Download</string>
-	<string name="available_layouts_not_available_language">Your language is not available select one from the list</string>
+	<string name="available_layouts_not_available_language">Your language is not available, select one from the list</string>
 	<string name="available_layouts_language_dialog_title">Available Languages</string>
 	<string name="available_layouts_checking_language_dialog">Checking local language versions</string>
 	<string name="available_layouts_downloading_dialog">Downloading…</string>
